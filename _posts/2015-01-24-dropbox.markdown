@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Dropbox Hackathon"
+date:   2015-01-24 22:00:00 +0000
+categories: hackathons
+---
+
+<img class="screenshot" src="/assets/2015-01-24-dropbox/screenshot.png" />
+
+<h1>DevBox</h1>
+
+A collaborative development environment.
+
+## Inspiration
+The challenge for the hackathon was to use the Dropbox API.
+
+## What it does
+We created Dev-Box, an online collaboration IDE, allowing multiple users to connect and edit the same files, while video chatting to each other, using WebRTC.
+
+## How we built it
+We used Node.js, Socket.IO and WebRTC. As Heroku were part sponsors of the hackathon, we also used that to host the application.
+
+## Challenges we ran into
+The venue for the event was closed on the Friday night, so we spent a lot of time travelling to and from Bracknell, so were very limited to the amount of time we had to develop the project.
+
+## What I learned
+I had never used WebRTC before, so I really enjoyed trying to integrate that into the system. I also learned how to use Heroku which became my go-to server for future hackathon projects.
+
+<div class="photo-gallery">
+	<img class="gallery-image" src="/assets/2015-01-24-dropbox/1.jpg" />
+	<img class="gallery-image" src="/assets/2015-01-24-dropbox/2.png" />
+</div>

@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "OxHack Hackathon"
+date:   2014-11-30 22:00:00 +0000
+categories: hackathons
+---
+
+<img class="screenshot" src="/assets/2014-11-30-oxhack/screenshot.png" />
+
+<h1>HowAmI?</h1>
+
+Tracking potentiall allergic reactions.
+
+## Inspiration
+The UK is one of the top three countries in the world for the highest incident of allergy. Surveys indicate that up to 45 percent of the population believe they have some sort of food intolerance, and allergy and food intolerance tests cost from £200 to £800. Target users include children (to simplify the process of identifying food ingredients) and parents, grandparents and babysitters.
+ 
+## What it does
+Software scans the barcode of the products and find the ingredients for that product. It then analyzes user input (feeling rating after eating food), and tries to match up what ingredients may have caused the user to feel bad.
+
+## How we built it
+We used the Digital Eyes API to implement the barcode scanning and ingredient listing. We used HTML, CSS, Javascript, Semantic UI and Angular 1.0 to build the front end to the application.
+
+## Challenges we ran into
+As our team was about to be judged, the Digit-Eyes website went down. One of my teammates rang the company up in America who informed us that they were refactoring their databases, but they stopped immediately and luckily we got our application working, and gained a place in the final 10.
+
+## What I learned
+This was the first hackathon that I had used Angular at, and had only been introduced to it a few weeks beforehand at my placement company. I spent the weekend learning how to setup an Angular project quickly, and improving my general knowledge of the SPA framework.
+
+
+
+<div class="photo-gallery">
+	<img class="gallery-image" src="/assets/2014-11-30-oxhack/1.jpg" />
+</div>

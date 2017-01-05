@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Facebook Hackathon"
+date:   2016-03-13 22:00:00 +0000
+categories: hackathons
+---
+
+<img class="screenshot" src="/assets/2016-03-13-facebook/screenshot.png" />
+
+<h1>Data Curator</h1>
+
+Exposing companies data through an API.
+
+## Inspiration
+While on his placement year, one of my teammates had spoken to a few companies that weere struggling to get the most from the data that they generated from their day-to-day operations.
+
+## What it does
+Takes in data from a source such as json data, or a connection to a database, and then provides access to this data via an API. The data also gets added to the online marketplace, with the potential for data to be sold for use in other projects or for research purposes.
+
+## How we built it
+The frontend was built using React, and the backend was built using PHP.
+
+## What we learned
+This was the first time I had worked with React before, and it took me a couple of hours to get adjusted to the setup, with it requiring a different way of thinking compared with Angular that I had used while on my work placement.
+
+## What we won
+We finished in 3rd place, out of around 40 teams.
+
+<div class="photo-gallery">
+	<img class="gallery-image" src="/assets/2016-03-13-facebook/1.jpg" />
+	<img class="gallery-image" src="/assets/2016-03-13-facebook/2.jpg" />
+	<img class="gallery-image" src="/assets/2016-03-13-facebook/3.jpg" />
+	<img class="gallery-image" src="/assets/2016-03-13-facebook/4.jpg" />
+	<img class="gallery-image" src="/assets/2016-03-13-facebook/5.jpg" />
+</div>

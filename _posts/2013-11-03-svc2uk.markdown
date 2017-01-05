@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "SVC2UK Hackathon"
+date:   2013-11-03 22:00:00 +0000
+categories: hackathons
+---
+
+<img class="screenshot" src="/assets/2013-11-03-svc2uk/screenshot.png" />
+
+<h1>Right For Me</h1>
+
+A regional compatibility finder.
+
+## Inspiration
+The task was to create a piece of software that uses the data sets which are uploaded by the Government.
+
+## What it does
+Anyone who is looking to move house, purchase property or visit somewhere inputs their preferences and our server uses these to provide the user with relevant locations on a map of England.
+
+## How we built it
+The project was built using HTML, CSS, Javascript and Bootstrap with a PHP backend. We also used some D3 for displaying how well a city in the UK scored in the different metrics we were focusing on.
+
+## What I learned
+I built on my use of CSS and Javascript in the last hackathon, and integrated an external API, the Google Maps API, and customising this to match the style of the project.
+
+## What we won
+We went on to win the event, with the prize being a trip to No. 11 Downing Street as part of the Silicon Valley comes to the UK event. We met various industry professionals from the UK and the US, and our prize was presented by then Chancellor George Osborne.
+
+
+<div class="photo-gallery">
+	<img class="gallery-image" src="/assets/2013-11-03-svc2uk/1.jpg" />
+	<img class="gallery-image" src="/assets/2013-11-03-svc2uk/2.jpg" />
+</div>

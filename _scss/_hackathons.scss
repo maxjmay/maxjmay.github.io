@@ -1,0 +1,107 @@
+.hackathon-grid {
+	text-align: center;
+	.hackathon {
+		height: 200px;
+		width: 200px;
+		background-size: cover;
+		display: inline-block;
+		overflow: hidden;
+		position: relative;
+		
+		.hackathon-tag {
+			transform: rotate(-45deg);
+			left: -56px;
+			position: absolute;
+			width: 100%;
+			top: 29px;
+			font-weight: bold;
+		}
+		.hackathon-winner.hackathon-tag {
+			background-color: #ffc247;
+			color: #735720;
+		}
+		.hackathon-host.hackathon-tag {
+			background-color: #47bbff;
+    		color: #afd7e8;
+		}
+		.hackathon-finalist.hackathon-tag {
+			background-color: #a9a9a9;
+    		color: #dedede;
+		}
+	}
+	.techcrunch.hackathon {
+		background-image: url('/assets/2016-12-04-techcrunch/logo.jpg');
+	}
+	.hackkings.hackathon {
+		background-image: url('/assets/2016-11-27-hackkings/logo.png');
+	}
+	.hacktrain.hackathon {
+		background-image: url(/assets/2016-11-06-hacktrain/logo.png);
+		background-color: #000;
+		background-size: 82%;
+		background-repeat: no-repeat;
+		background-position: 50%;
+	}
+	.facebook.hackathon {
+		background-image: url(/assets/2016-03-13-facebook/logo.png);
+	}
+	.bathhack.hackathon {
+		background-image: url(/assets/2015-11-14-bathhack/logo.jpg);
+	}
+	.ibchackfest.hackathon {
+		background-image: url(/assets/2015-09-13-ibchackfest/logo.jpg);
+	}
+	.destinationhack.hackathon {
+		background-image: url(/assets/2015-06-28-destinationhack/logo.jpg);
+	}
+	.nbclondon.hackathon {
+		background-image: url(/assets/2015-06-07-nbclondon/logo.jpg);
+	}
+	.gonehacking.hackathon {
+		background-image: url(/assets/2015-05-17-gonehacking/logo.jpg);
+	}
+	.battlehack.hackathon {
+		background-image: url(/assets/2015-04-26-battlehack/logo.png);
+	}
+	.spaceapps.hackathon {
+		background-image: url(/assets/2015-04-12-spaceapps/logo.jpeg);
+	}
+	.brumhack.hackathon {
+		background-image: url(/assets/2015-03-29-brumhack/logo.jpg);
+	}
+	.hacklondon.hackathon {
+		background-image: url(/assets/2015-03-01-hacklondon/logo.jpg);
+	}
+	.hacksoton.hackathon {
+		background-image: url(/assets/2015-01-31-hacksoton/logo.jpg);
+	}
+	.dropbox.hackathon {
+		background-image: url(/assets/2015-01-24-dropbox/logo.png);
+	}
+	.oxhack.hackathon {
+		background-image: url(/assets/2014-11-30-oxhack/logo.png);
+	}
+	.goodnight.hackathon {
+		background-image: url(/assets/2014-11-09-good-night/logo.jpg);
+	}
+	.svc2uk.hackathon {
+		background-image: url(/assets/2013-11-03-svc2uk/logo.jpg);
+	}
+	.realworldstudios.hackathon {
+		background-image: url(/assets/2013-03-17-real-world-studios/logo.jpg);
+	}
+}
+
+@media (max-width: 700px) {
+	.hackathon-grid {
+		
+		.hackathon {
+			width: 150px;
+			height: 150px;
+			
+			.hackathon-tag {
+				left: -34px;
+			}
+		}
+	}
+}

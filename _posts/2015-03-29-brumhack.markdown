@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "BrumHack Hackathon"
+date:   2015-03-29 22:00:00 +0000
+categories: hackathons
+---
+
+<img class="screenshot" src="/assets/2015-03-29-brumhack/screenshot.png" />
+
+<h1>Edulect</h1>
+
+An election educational app.
+
+## Inspiration
+The hackathon took place one month before the U.K. general election, so we wanted to build an application that could help voters.
+
+## What it does
+We developed a website which allows users to search for candidates standing in their constituency for the 2015 General Election. We used the YourNextMP API to gather a list of candidates based on a postcode, and then used the Majestic API on a candidates website to get a list of topics related to their site.
+
+## How we built it
+We used HTML, CSS, Semantic UI and Angular 1.0 for the frontend, and Node.js for the backend. We used the Majestic API to gather trustflow information, and YourNextMP API to gather a list of candidates standing in each area. We also used the Twitter API to get number of Twitter followers, and the last tweet that politician had sent.
+
+## What I learned
+This was the first hackathon that we had taken on other hackathon attendees onto our team, so it was my first experience trying to delegate parts of the project to people that I had never worked with before, not knowing what their skill sets were.
+
+## What happened to Edulect
+Following on from winning Best Use of Bloomberg API at BrumHack, we decided to take our project further, so for a week we cleaned up the website, before releasing it on the 5th March 2015. The website allows users to search for candidates standing in their constituency for the 2015 General Election. We used the YourNextMP API to gather a list of candidates based on a postcode, and then used the Majestic API on a candidates website to get a list of topics related to their site. We were fairly successful with the application, with strong posts on Reddit, as well as a tweet by Jolyon Rubinstein from The Revolution Will Be Televised. Over 11 days leading up to the election we had over 2,000 different visitors; not bad for a website built in 24 hours.
+
+## What we won
+We won the prize for best use of the Bloomberg API.
+
+
+<div class="photo-gallery">
+	<img class="gallery-image" src="/assets/2015-03-29-brumhack/1.jpg" />
+	<img class="gallery-image" src="/assets/2015-03-29-brumhack/2.jpg" />
+	<img class="gallery-image" src="/assets/2015-03-29-brumhack/3.jpg" />
+</div>

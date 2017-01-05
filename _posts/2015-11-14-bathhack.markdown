@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "BathHack Hackathon"
+date:   2015-11-14 22:00:00 +0000
+categories: hackathons
+---
+
+On November 14th - 15th 2015, I organised the first ever 24 hour hackathon at the University of Bath. I wanted to organise the hackathon after the great past experiences I had had, and so I could enhance the University experiences of my peers. Around 80 - 90 people attended the event, and we had sponsors from many companies in Bath, and partnered with MLH and Bath:Hacked.
+
+## Establishing sponsorship
+To begin with, I had numerous Skype calls with MLH, discussing dates, as well as the various items that would need to be ticked off for the event to be a success. I needed to start looking for a venue, and secured 1 West 2.101, a flat lecture theatre, with room for 132 people. With organisers, sponsors etc. to bear in mind, my limit would be around 115 participants.
+
+I then needed to start trying to get sponsors. I wanted local companies, as well as those with an already established relationship with the University to be at the forefront of the event, in the hope that relationships could be built, and placements and graduate roles may happen as a result.
+
+AlphaSights had emailed the University about potentially organising a hackathon, so I decided to email them straight away to work together to put on a brilliant event. We had regular conference calls, trying to discuss a potential theme for the event, but in the end we decided to let the participants choose what they wanted to create, something that in the end worked really well.
+
+I emailed Meanbee, with the founders being former students, I thought this would be a brilliant company to sponsor the hackathon. From there I secured the sponsorship of other Bath companies: Rocketmakers, Netcraft, Gradwell, and Storm. Bath:Hacked also became involved in the hackathon, providing their data sets in case any of the teams wanted to build some products based on them.
+
+I spoke to my placement company, Techex, and although the whole technical team were away for the hack weekend, they kindly sponsored the event, and the stickers that they provided could be seen on the back of lots of the participant’s laptops.
+
+During my placement year, I got heavily involved with the BCS Berkshire Branch, being on the committee for a few months. When I returned to Bath, I wanted to establish a BCS Student Chapter at the University. After doing this BCS sent us a banner to display which was on show for the entirety of the hackathon. The BCS also sent us lots of stuff to give out to the participants, and a few people took student membership forms.
+
+I also became a Microsoft Student Partner for the University of Bath, so used this as an opportunity to tell people about the Hello Cloud competition, as well as Visual Studio to build different applications, one example being a piece of software that visualised the distances between towns and cities. It was also really exciting to see students using the Oculus Rift with their Windows computers, especially as Oculus recently dropped support for OSX.
+
+Once we had the sponsorship, we started to promote the event. I started by sending emails internally to computer science students at the University, with a great response from 1st and 2nd years. We then started to promote outside the University, starting with the MLH Fall Season page, before posting it to the Hackathon Hackers EU Facebook group. We filled our allotted 130, to account for attrition rates, and even got 30 sign ups on our waiting list.
+
+
+## The hackathon 
+Participants arrived from 10:30am – 11am, before the opening presentations began.
+
+Hacking began after the presentations, and teams of two to four students coded from 12pm on Saturday through to 12pm on Sunday, working on a variety of projects, some software based using different languages, and some hardware based.
+
+Students worked right the way through the night to develop their projects, and once the hacking had finished, they were given 3 minutes to present their ideas. There were tools to help people in crisis after a terrorist attack, in light of the recent Paris attacks, as well as games, marketplaces, and even a Nerf gun turret.
+
+## Reflection
+After attending 15 hackathon as a participant, it was great to finally get the chance to organise one, and it was extra special being the first 24 hour hackathon at the University of Bath. It was more stressful than I could’ve imagined, but to hear the positive feedback from the students made it worth it. There were some great projects made, and I hope that Bath students will get more involved with the hackathon community as a result, as it is such a great and supportive community to be part of. I plan to write a guide for next year’s Bath Computer Science Society committee, in the hope that what I have started will continue for many years to come.
+
+<div class="photo-gallery">
+	<img class="gallery-image" src="/assets/2015-11-14-bathhack/1.JPG" />
+	<img class="gallery-image" src="/assets/2015-11-14-bathhack/2.jpg" />
+	<img class="gallery-image" src="/assets/2015-11-14-bathhack/3.jpg" />
+</div>
