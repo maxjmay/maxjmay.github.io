@@ -37,7 +37,7 @@ We didn't know much about machine learning when we first began the hackathon, so
 How to implement successfully a form of machine learning and working with the latest version of ESRI ARCGIS in conjunction with THREE.JS.
 
 ## What we won
-Our project was given a mark above 3, and we were provided with tickets for TechCrunch Disrupt London. On Tuesday 6th December I wvisited TechCrunch Disrupt, where I saw the finals of the Statup Battlefield and networked with other startup companies.
+Our project was given a mark above 3, and we were provided with tickets for TechCrunch Disrupt London. On Tuesday 6th December I visited TechCrunch Disrupt, where I saw the finals of the Statup Battlefield and networked with other startup companies.
 
 <div class="photo-gallery">
 	<img class="gallery-image" src="/assets/2016-12-04-techcrunch/1.jpg" />
